@@ -8,7 +8,7 @@ My GitHub page is https://github.com/cenders-fullerton .
 
 ### CPSC 120
 
-* Lab 
+* Lab 3
 
 
 * Lab 
